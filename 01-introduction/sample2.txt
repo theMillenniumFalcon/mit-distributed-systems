@@ -1,0 +1,5 @@
+Hello world! This is a test file for MapReduce.
+MapReduce divides work into map and reduce phases.
+The map phase processes input data in parallel.
+The reduce phase aggregates intermediate results.
+This enables efficient processing of big data across clusters. 

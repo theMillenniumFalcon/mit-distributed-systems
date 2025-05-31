@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+MapReduce is a programming model for processing large data sets.
+The map function processes input and produces key-value pairs.
+The reduce function takes keys and their associated values to produce output.
+Distributed systems enable processing across multiple machines. 
