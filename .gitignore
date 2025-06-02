@@ -42,4 +42,19 @@ mr-*
 
 # Temporary files
 tmp/
-temp/ 
+temp/
+
+# GFS (Google File System) implementation files
+# Compiled GFS binaries
+03-gfs/gfs
+03-gfs/main
+**/gfs
+**/basic-gfs
+
+# Chunkserver data directories
+chunkserver_*/
+03-gfs/chunkserver_*/
+
+# GFS chunk files and metadata
+chunk_*
+*.chunk 
